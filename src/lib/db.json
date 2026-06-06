@@ -1,0 +1,42 @@
+[
+  {
+    "vaultId": "0xd1470c22a5bebbfb78c57e05173a0f3cb4ab907d96778064f0172a430f195b82",
+    "emails": [
+      "taufnashrul04@gmail.com"
+    ],
+    "emailSent": true,
+    "createdAt": 1780665706823
+  },
+  {
+    "vaultId": "0x08162abc5b11b60cb05fc0f9c445613d56b32fe35e4855769376bd5adaacdb96",
+    "emails": [
+      "dawdle.inc@gmail.com"
+    ],
+    "emailSent": true,
+    "createdAt": 1780670377511
+  },
+  {
+    "vaultId": "0xc1cb83bd5a8d268c7f27e93e04afcc868892d25e914897855e9f418f04821ee3",
+    "emails": [
+      "dawdle.inc@gmail.com"
+    ],
+    "emailSent": true,
+    "createdAt": 1780672328196
+  },
+  {
+    "vaultId": "0x464c8865e394032b00b13e6329e6af2caf483d41114b36a88128368391091639",
+    "emails": [
+      "dawdle.inc@gmail.com"
+    ],
+    "emailSent": true,
+    "createdAt": 1780672525277
+  },
+  {
+    "vaultId": "0x2405706a4491f72072fa7a6e6339c7b318c0effac40e171e329db0bba92c466a",
+    "emails": [
+      "dawdle.inc@gmail.com"
+    ],
+    "emailSent": true,
+    "createdAt": 1780672673200
+  }
+]

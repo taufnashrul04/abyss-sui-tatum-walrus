@@ -1,0 +1,7 @@
+[package]
+name = "walrus_vault"
+version = "0.0.1"
+edition = "2024.beta"
+
+[addresses]
+walrus_vault = "0x0"
