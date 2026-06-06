@@ -12,7 +12,7 @@ import { getWalrusClient } from '@/lib/walrus';
 import { Upload, Users, Settings, ArrowRight, ArrowLeft, Check, Lock, Loader2, ShieldAlert, Copy, CheckCircle2 } from 'lucide-react';
 
 const TIMEOUT_OPTIONS = [
-  { value: 60000,      label: '1 MIN',   description: 'Live Demo' },
+  { value: 600000,     label: '10 MIN',  description: 'Live Demo' },
   { value: 2592000000, label: '30 Days', description: 'Short-term' },
   { value: 7776000000, label: '90 Days', description: 'Quarterly' },
   { value: 15552000000,label: '180 Days',description: 'Standard', recommended: true },
