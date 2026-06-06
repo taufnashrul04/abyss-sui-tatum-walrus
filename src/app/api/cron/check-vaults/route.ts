@@ -3,7 +3,7 @@ import { SuiJsonRpcClient, getJsonRpcFullnodeUrl } from '@mysten/sui/jsonRpc';
 import { Resend } from 'resend';
 import { getVaults, markEmailSent } from '@/lib/db';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend(process.env.RESEND_API_KEY || "re_dummy");
 const suiClient = new SuiJsonRpcClient({ 
   url: getJsonRpcFullnodeUrl('testnet'),
   network: 'testnet' as const
