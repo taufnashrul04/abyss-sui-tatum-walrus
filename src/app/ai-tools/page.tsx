@@ -109,7 +109,6 @@ export default function AIToolsPage() {
   /* ── Chat state ── */
   const [input, setInput] = useState('');
   const chatInstance = useChat({
-    api: '/api/ai/chat',
     initialMessages: [
       {
         id: '1',
